@@ -1,5 +1,6 @@
 ### Hi there 👋,
-I'm Kinton JACQUES, a passionate Full-Stack Web & Mobile Developer.
+I'm Kinton JACQUES,\
+a passionate Full-Stack Web & Mobile Developer.
 
 I use [Angular](https://angular.io/) for Front-End Web Development,\
 [Symfony](https://symfony.com/) for Back-End Web Development,\
